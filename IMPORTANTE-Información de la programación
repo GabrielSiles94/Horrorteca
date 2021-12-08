@@ -1,0 +1,12 @@
+Esta es una pequeña aplicacion que he creado para practicar los CRUDS en PHP-  Es una aplicacion en donde la gente puede bajarse libros, que se encuentran libre para su uso,
+ de la temática de terror. Como fan de estos libros consideré una buena opción crear un repositorio de ellos para assí poder practicar php y demás tecnologias.
+
+La Web, además de ser un repositorio, ofrece información acerca de varios autores famosos dentro del mundillo literario. 
+En la pagina de  administrador he creado un CRUD en  el que puedo ver en tiempo real como inserto nuevos libros con sus imagenes a la página, como  modifico el título la imagen
+o el enlace o como, simplemente, los borro.
+
+----TECNOLOGÍAS USADAS----
+HTML
+CSS/BOOTSTRAP 4
+JAVASCRIPT/JQUERY
+PHP
